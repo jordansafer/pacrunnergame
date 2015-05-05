@@ -29,7 +29,6 @@ class EventBasedAnimationClass(object):
         self.redrawAll()
 
     def onKeyPressedWrapper(self, event):
-        print "hi"
         self.onKeyPressed(event)
         self.redrawAll()
 
