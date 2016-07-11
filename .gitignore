@@ -1,0 +1,9 @@
+# compiled python
+*.pyc
+
+# Highscores file
+HighScores/
+
+# tiles file
+savedTiles/
+
